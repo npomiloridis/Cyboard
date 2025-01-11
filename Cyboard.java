@@ -4,10 +4,10 @@
 * Last updated: 02/12/2024
 *
 * Compilation command: 	Windows:	javac -cp .;stdlib.jar Cyboard.java
-* 						Linux:		javac -cp .:stdlib.jar Cyboard.java
+* 					Linux:		javac -cp .:stdlib.jar Cyboard.java
 * 
 * Execution command:	Windows:	java -cp .;stdlib.jar Cyboard
-* 						Linux: 		java -cp .:stdlib.jar Cyboard
+* 					Linux: 		java -cp .:stdlib.jar Cyboard
 * 
 * 
 * This programme is a tic-tac-toe like game. When the execution command is entered, user is prompted to choose a game mode
